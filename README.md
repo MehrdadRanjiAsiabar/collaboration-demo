@@ -6,3 +6,7 @@ This project is used to practice Git and Github collaboration workflows.
 - Open an issue 
 - Create a branch
 - Submit a pull request
+
+## Getting started
+- Clone the repository with git clone
+- Main files: app.txt and README.md
