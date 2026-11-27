@@ -6,3 +6,5 @@ This project is used to practice Git and Github collaboration workflows.
 - Open an issue 
 - Create a branch
 - Submit a pull request
+
+CI runs automatically on every push and pull request.
