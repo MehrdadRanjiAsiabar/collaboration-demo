@@ -6,3 +6,5 @@ This project is used to practice Git and Github collaboration workflows.
 - Open an issue 
 - Create a branch
 - Submit a pull request
+
+Contributions are welcome!
